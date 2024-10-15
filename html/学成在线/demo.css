@@ -1,0 +1,30 @@
+p {
+    color: #000;
+}
+
+.container {
+    width: 100%;
+}
+
+#header {
+    background: #000;
+}
+
+* {
+    box-sizing: border-box;
+}
+/*div里面的所有span颜色都会是#fff*/
+div span{
+    color: #fff;
+}
+
+div, span{
+    background: #000;
+}
+
+p.box{
+    background: #fff;
+}
+a:hover{
+    color: #f00;
+}
